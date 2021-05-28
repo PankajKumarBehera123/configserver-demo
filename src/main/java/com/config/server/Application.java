@@ -13,6 +13,7 @@ public class Application {
 		ApplicationContext ctx=SpringApplication.run(Application.class, args);
 		//something from others
 		int a=10;
+		int b=200;
 		
 	}
 

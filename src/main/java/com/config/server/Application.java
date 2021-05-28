@@ -14,6 +14,7 @@ public class Application {
 		//something from others
 		int a=10;
 		int b=200;
+		int c=500;
 		
 	}
 
